@@ -30,6 +30,17 @@ LIME is well-suited for this task because:
 1. LIME gave us very good insights as to how the ResNet34 model made its predictions, revealing that the model sometimes focused on the wrong features ( e.g the elements in the background and bits and pieces of car features )
 2. While LIME is a powerful tool for explaining deep learning models, we can try it out by combining it with other techniques like SHAP and Anchors to improve reliability, feature approximation and reduce inconsistencies.
 
+## Installation and Setup
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/johnjoel2001/ML_Explainability_I.git
+   cd ML_Explainability_I
+   ```
+2. Run the main.ipynb
+3. The requirements are listed in the first cell.
+
+
 # **References**
 
 1)  **Unsplash Image URL ( I have selected this particular image for this Assignemnt )** - https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
